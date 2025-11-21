@@ -1,0 +1,100 @@
+Federico Barra
+federico.n.barra@gmail.com
+Discord: federico.n.barra
+
+Version de Unity
+6000.2.6f2
+
+00 - Unity HUB
+	https://unity.com/es/unity-hub
+
+01 - Workflow General de Unity
+	
+02 - Luces
+	https://docs.unity3d.com/6000.2/Documentation/Manual/Lighting.html
+	Lightning en general
+	https://docs.unity3d.com/6000.2/Documentation/Manual/LightingOverview.html
+	
+03 - Renderer Component
+
+04 - Materiales y Texturas
+	Radio Asset: https://assetstore.unity.com/packages/3d/props/radio-230712
+	
+	https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@12.0/manual/lit-shader.html
+	Unity llama Smoothness lo que painter llama Roughness
+	https://docs.unity3d.com/Manual/StandardShaderMaterialCharts.html
+	https://docs.unity3d.com/Manual/StandardShaderMaterialParameterMetallic.html
+	https://docs.unity3d.com/es/2018.4/Manual/StandardShaderMaterialParameterSmoothness.html
+	https://docs.unity3d.com/6000.2/Documentation/Manual/StandardShaderMaterialParameterHeightMap.html
+	
+	Export de Texturas de Painter a Unity:
+	https://www.youtube.com/watch?v=_4ULQ95njmQ
+	Materiales substance:
+	https://assetstore.unity.com/packages/tools/utilities/substance-3d-for-unity-213208
+	https://www.youtube.com/watch?v=N62jDffWQHE
+	
+05 - Texture Import Settings
+	
+	https://docs.unity3d.com/Manual/class-TextureImporter.html
+	Anisotropic - https://en.wikipedia.org/wiki/Anisotropic_filtering
+	MipMaps - https://en.wikipedia.org/wiki/Mipmap
+	Detail Maps - https://docs.unity3d.com/Manual/StandardShaderMaterialParameterDetail.html
+	HDR - https://docs.unity3d.com/Manual/HDR.html
+
+06 - Importación de fbx.
+	https://docs.unity3d.com/Manual/class-FBXImporter.html
+	
+	LOD: https://docs.unity3d.com/6000.2/Documentation/Manual/class-LODGroup.html
+	
+07 - SkinnedMesh Renderer.
+	Mixamo.com
+	
+08 - Camara Y Skybox
+	Lightning Tab - https://docs.unity3d.com/6000.2/Documentation/Manual/lighting-window.html
+	
+09 - Prefabs
+10 - Post process
+	https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@13.1/manual/EffectList.html
+
+11 - Settings
+
+
+Forward - Deferred
+https://docs.unity3d.com/Manual/RenderingPaths.html
+https://gamedevelopment.tutsplus.com/forward-rendering-vs-deferred-rendering--gamedev-12342a
+https://www.youtube.com/watch?v=w0j1yo1v5Uo&ab_channel=DevandChill
+
+Linear vs Gamma
+https://docs.unity3d.com/Manual/LinearRendering-LinearOrGammaWorkflow.html
+https://docs.unity3d.com/Manual/LinearRendering-LinearTextures.html
+
+
+Assets Links:
+En general:
+https://assetstore.unity.com/publishers/1
+
+Enviroment:
+https://assetstore.unity.com/packages/3d/environments/sci-fi/adventure-game-environment-pack-urp-246189
+https://assetstore.unity.com/packages/3d/environments/interior-house-assets-urp-257122
+https://assetstore.unity.com/packages/essentials/tutorial-projects/viking-village-urp-29140
+Skyboxes:
+https://assetstore.unity.com/packages/2d/textures-materials/sky/hdri-pack-72511
+
+Radio:
+https://assetstore.unity.com/packages/3d/props/radio-230712
+
+Characters:
+https://assetstore.unity.com/packages/3d/characters/adam-character-pack-adam-guard-lu-74842
+https://assetstore.unity.com/packages/3d/characters/robots/robot-kyle-urp-4696
+www.mixamo.com
+
+Characters Controllers:
+https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
+https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526
+
+
+
+
+
+
+
