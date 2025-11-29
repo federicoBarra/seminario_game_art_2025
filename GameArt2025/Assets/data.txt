@@ -4,7 +4,7 @@ Discord: federico.n.barra
 
 Version de Unity
 6000.2.6f2
-
+[Encuentro 01]
 00 - Unity HUB
 	https://unity.com/es/unity-hub
 
@@ -41,9 +41,10 @@ Version de Unity
 	Detail Maps - https://docs.unity3d.com/Manual/StandardShaderMaterialParameterDetail.html
 	HDR - https://docs.unity3d.com/Manual/HDR.html
 
+[Encuentro 02]
+
 06 - Importación de fbx.
 	https://docs.unity3d.com/Manual/class-FBXImporter.html
-	
 	LOD: https://docs.unity3d.com/6000.2/Documentation/Manual/class-LODGroup.html
 	
 07 - SkinnedMesh Renderer.
@@ -57,6 +58,11 @@ Version de Unity
 	https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@13.1/manual/EffectList.html
 
 11 - Settings
+
+12 - Build in Unity
+	https://docs.unity3d.com/Manual/BuildSettings.html
+13 - Animations
+	https://docs.unity3d.com/Manual/AnimatorWindow.html
 
 
 Forward - Deferred
@@ -92,8 +98,22 @@ Characters Controllers:
 https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
 https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526
 
+Otros Links:
 
-
+- Terrains:
+https://learn.unity.com/project/introduction-to-terrain-editor
+- Particles:
+https://learn.unity.com/project/getting-started-with-particle-systems
+https://docs.unity3d.com/Manual/shader-StandardParticleShaders.html
+Particles:
+https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325
+Volumetric Fog:
+https://learn.unity.com/tutorial/creating-volumetric-fog-18
+Cinemachine:
+https://unity.com/features/cinemachine
+https://docs.unity3d.com/Packages/com.unity.cinemachine@3.1/manual/index.html
+Visual Effect Graph:
+https://docs.unity3d.com/Packages/com.unity.visualeffectgraph@12.0/manual/index.html
 
 
 
